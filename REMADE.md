@@ -1,0 +1,1 @@
+hello world. This is taisei's first git project!
